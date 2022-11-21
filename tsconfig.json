@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "useUnknownInCatchVariables": false,
+    "target": "es2020",
+    "lib": ["es2020"],
+    "module": "node16",
+    "moduleResolution": "NodeNext",
+  }
+}
